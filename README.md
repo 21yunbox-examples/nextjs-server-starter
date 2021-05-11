@@ -1,8 +1,6 @@
-# Next.js (服务器端) 在 [21YunBox](https://www.21cloudbox.com/) 的示例
+# Next.js 服务器端渲染 Server-side Rendering SSR 在 [21YuBox](https://www.21cloudbox.com/) 的启动模板
 
-这是 [21YunBox](https://www.21cloudbox.com/) 上创建的 [Next.js](https://nextjs.org/) 示例。
-
-如果你需要部署 Next.js 的静态页版本，可参考 [Next.js (静态页) 示例](https://www.21cloudbox.com/blog/solutions/how-to-deploy-nextjs-project-in-production-server.html)
+如果你需要部署 Next.js 的静态网站生成 (SSG) 版本，可参考 [Next.js](https://www.21cloudbox.com/blog/solutions/how-to-deploy-nextjs-project-in-production-server.html)
 
 ## 部署详情参考:
 
