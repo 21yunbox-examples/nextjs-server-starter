@@ -1,9 +1,7 @@
-# Next.js 服务器端渲染 Server-side Rendering SSR 在 [21YuBox](https://www.21cloudbox.com/) 的启动模板
+# Deploy Next JS Starter in China Edge Using [21YuBox](https://www.21cloudbox.com/) (SSR)
 
-如果你需要部署 Next.js 的静态网站生成 (SSG) 版本，可参考 [Next.js](https://www.21cloudbox.com/blog/solutions/how-to-deploy-nextjs-project-in-production-server.html)
+When Vercel and Netlify don't work out-of-the-box for China, we create an addons solution that gives you an edge in China.
 
-## 部署详情参考:
+You can read the full tutorial (with video screencast) at [https://www.21cloudbox.com/solutions/how-to-deploy-nextjs-project-in-production-server.html](https://launch-in-china.21cloudbox.com/solutions/how-to-deploy-nextjs-project-in-production-server.html).
 
-- 中文: [https://www.21cloudbox.com/blog/solutions/how-to-deploy-nextjs-project-in-production-server.html](https://www.21cloudbox.com/blog/solutions/how-to-deploy-nextjs-project-in-production-server.html)
 
-- English: [https://launch-in-china.21cloudbox.com/solutions/how-to-deploy-nextjs-project-in-production-server.html](https://launch-in-china.21cloudbox.com/solutions/how-to-deploy-nextjs-project-in-production-server.html)
